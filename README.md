@@ -3,7 +3,7 @@
 - 🔧 Skills: MERN Stack Web Development
 - 🎓 Education: Sophomore at IIT-BHU (Varanasi) in Mechanical Engineering
 - 🌱 Currently learning: Backend Development, Data Structures & Algorithms
-- 👀 Hobbies: Pretending to be the main charecter of Sylvia Plath & Fyodor Dostoevsky's lit cuz why not
+
 
 
 
