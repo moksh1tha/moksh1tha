@@ -1,10 +1,12 @@
- Hey there! I’m Mokshitha Edamalapati
+ Hey there! I’m Mokshitha Edamalapati, an engineering student passionate about Software Development and ML striving to contribute to real world problems.
  
+- 🔧 Skills: MERN Stack Web Development
 - 🎓 Education: Sophomore at IIT-BHU (Varanasi) in Mechanical Engineering
 - 🌱 Currently learning: Backend Development, Data Structures & Algorithms
-- 👀 Tech Interests: Full stack WebDev, Machine Learning, Data Science, Blockchain Technology
+- 👀 Hobbies: Pretending to be the main charecter of Sylvia Plath & Fyodor Dostoevsky's lit cuz why not
 
-Let's connect and build something dope together!
+
+
 
 
 <!---
