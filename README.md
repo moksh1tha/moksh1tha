@@ -1,6 +1,10 @@
-- 👋 Hey there! I’m Mokshitha Edamalapati
-- 👀 I’m interested in Full stack WebDev, Machine Learning, Data Science, Blockchain Technology
-- 🌱 I’m currently learning Backend Development, Data Structures & Algorithms
+ Hey there! I’m Mokshitha Edamalapati
+ 
+- 🎓 Education: Sophomore at IIT-BHU (Varanasi) in Mechanical Engineering
+- 🌱 Currently learning: Backend Development, Data Structures & Algorithms
+- 👀 Tech Interests: Full stack WebDev, Machine Learning, Data Science, Blockchain Technology
+
+Let's connect and build something dope together!
 
 
 <!---
