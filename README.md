@@ -1,8 +1,5 @@
- Hey there! I’m Mokshitha Edamalapati, an engineering student passionate about Software Development and ML striving to contribute to real world problems.
- 
-- 🔧 Skills: MERN Stack Web Development
-- 🎓 Education: Sophomore at IIT-BHU (Varanasi) in Mechanical Engineering
-- 🌱 Currently learning: Backend Development, Data Structures & Algorithms
+Hey there! I’m Mokshitha Edamalapati, an engineering student passionate about Software Development and ML striving to contribute to real world problems.
+
 
 
 
