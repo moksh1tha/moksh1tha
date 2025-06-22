@@ -1,5 +1,4 @@
-Hey there! I’m Mokshitha Edamalapati, an engineering student passionate about Software Development and ML striving to contribute to real world problems.
-
+Hi, I'm Mokshitha an upcoming pre-final year student at Indian Institute Of Technology BHU Varanasi
 
 
 
