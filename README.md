@@ -1,4 +1,4 @@
-Hi, I'm Mokshitha an upcoming pre-final year student at Indian Institute Of Technology BHU Varanasi
+Hi, I'm Mokshitha a pre-final year student at Indian Institute Of Technology BHU Varanasi
 
 
 
